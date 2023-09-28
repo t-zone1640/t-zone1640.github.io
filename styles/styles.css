@@ -13,7 +13,7 @@
     cursor: pointer;
   }
 
-  button:hover {
+  .button:hover {
     transition: 300ms;
     background-color: rgb(60, 60, 60);
   }
